@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "706213707253",
+    "project_id": "doodle-269be",
+    "storage_bucket": "doodle-269be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706213707253:android:383cd562805fa16b83f4bc",
+        "android_client_info": {
+          "package_name": "com.example.doodle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeWeyZQ25Dr1JmquJP-swnO5tcRdNz8dI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
